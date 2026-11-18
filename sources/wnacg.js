@@ -12,7 +12,7 @@ class Wnacg extends ComicSource {
     minAppVersion = "1.0.0"
 
     // update url
-    url = "https://venera-mine.pages.dev/sources/wnacg.js"
+    url = "https://hhhhia.github.io/venera-mine/sources/wnacg.js"
 
     static domains = [];
 
